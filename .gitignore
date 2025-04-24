@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Test coverage and reports
+.coverage
+htmlcov/
+*.cover
+*.coverage.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.cache
+
+# Prometheus metrics dump
+metrics.prom
